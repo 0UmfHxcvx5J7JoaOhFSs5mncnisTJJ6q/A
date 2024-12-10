@@ -1,0 +1,4 @@
+export(calcAlpha)
+export(foo)
+export(bar)
+importFrom(madrat,calcOutput)
