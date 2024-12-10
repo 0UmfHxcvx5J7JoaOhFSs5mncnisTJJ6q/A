@@ -6,6 +6,7 @@
 calcAlpha <- function()
 {
     calcOutput('Omega')
+
 }
 
 foo <- function(n = 0) sys.call(-n)
